@@ -9,6 +9,7 @@ from os.path import isfile
 import numpy as np
 import nltk
 
+
 def read_data(data_path='input.txt'):
     '''
     read the input and convert to int
